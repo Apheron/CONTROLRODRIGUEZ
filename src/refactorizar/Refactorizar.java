@@ -22,4 +22,8 @@ public class Refactorizar {
     String nombre;
     int edad;
 }
+    public class Clase2 {
+    String nombre;
+    int edad;
+}
 }
